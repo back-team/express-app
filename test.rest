@@ -1,0 +1,7 @@
+POST  http://localhost:3030/Add HTTP/1.1
+content-type: application/json
+
+{
+    "name": "abdo",
+    "age": "20"
+}
